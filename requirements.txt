@@ -1,0 +1,6 @@
+streamlit==1.39.0
+pandas>=2.0
+numpy
+plotly>=5.18
+matplotlib
+matplotlib-venn
